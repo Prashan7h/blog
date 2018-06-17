@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Introduction
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+I am Prashanth, I teach, code, do data analysis and watch football. That's all there is to me. Well, may be a little reading here and there, watching peoples fancy life on youtube, taking up new online courses on random topics, dreaming about taking guitar class someday and learning spanish (that's all, I guess).
 
 ### Built on Poole
 
